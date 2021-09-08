@@ -1,0 +1,25 @@
+
+img.background-image {
+    width: 1920px;
+    height: 1080px;
+    padding: 67.9px 247.4px 44.6px 244.6px;
+    object-fit: contain;
+    position: absolute;
+  }
+  img.Stall-image-green {
+      margin-top: 68.2px;
+      margin-left: 244px;
+    width: 1428px;
+    height: 966.2px;
+    padding: 57.6px 48.2px 39.8px 51.3px;
+    object-fit: contain;
+    position: absolute;
+}
+.image {
+    width: 713.7px;
+    height: 399.6px;
+    margin: 460.9px 636.7px 46.5px 569.6px;
+    object-fit: contain;
+    position: absolute;;
+    
+  }
